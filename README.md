@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%2336BCF7&&size=30&lines=Hey!+My+Name+is+Shadow+(aka+Shadow)!;I+am+Fullstack+And+Blockchain+Developer;I+am+Currently+Learning;BlockChain(Solidity);Data+Structures+And+Algorithm;I+Have+Good+Hold+On;JavaScript+%2C+Json+%2C+Java)](https://git.io/typing-svg)
+ [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Alejandro+Shadow;AnimeDEX;MovieDEX;MangaDEX;KraxorGames.com;LordShadow.net)](https://git.io/typing-svg)
 
 <div size='20px'> Hi! My name is Shadow. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
